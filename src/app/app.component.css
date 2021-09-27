@@ -1,0 +1,29 @@
+.container {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  background-color: lightgrey;
+  padding: 10px;
+}
+
+.countdown{
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
+
+.datePicker{
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+
+}
+
+.example-events{
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+  background-color: lightblue;
+}
